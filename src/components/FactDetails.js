@@ -34,7 +34,7 @@ export default function FactDetails() {
             <div className="card-body">
                 <h5 className="card-title">{fact.title}</h5>
                 <p className="card-text">{fact.description}</p>
-                <p className="card-text"><small className="text-muted">{new Date(fact.date).toUTCString()}</small></p>
+                <p className="card-text"><small className="text-muted">Updated on {new Date(fact.date).toUTCString()}</small></p>
             </div>
         </div>}
     </div>

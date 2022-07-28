@@ -14,7 +14,7 @@ export default function FactsItems(props) {
         <div className="card-body">
           <h5 className="card-title">{props.title.slice(0, 30)}..</h5>
           <p className="card-text">{props.description.slice(0, 50)}...</p>
-          <p className="card-text"><small className="text-muted">{new Date(props.date).toUTCString()}</small></p>
+          <p className="card-text"><small className="text-muted">Updated on {new Date(props.date).toUTCString()}</small></p>
           <Link to={`/factitems/${props.id}`} className="btn btn-primary">Read more</Link>
         </div>
       </div>
