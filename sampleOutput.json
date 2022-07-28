@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Times of India - 1898",
+      "description": "This is how the press room of Times of India looks like in the year 1898. ",
+      "imageUrl": "https://i.redd.it/j1s27bibem391.jpg",
+      "date": "27th July, 2022"
+    },
+    {
+      "id": 2,
+      "title": "Old Bridge",
+      "description": "Crossing River Jhelum by a bridge of three ropes via Garli village en-route to Kashmir (1903)",
+      "imageUrl": "https://i.redd.it/tqu7t2mmb1291.jpg",
+      "date": "27th July, 2022"
+    },
+    {
+      "id": 3,
+      "title": "Old School 'School'",
+      "description": "A teacher taking class on the streets of Jaipur (1948)",
+      "imageUrl": "https://i.redd.it/5vh91kfprn091.jpg",
+      "date": "27th July, 2022"
+    }
+  ]
+}
